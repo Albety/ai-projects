@@ -6,12 +6,3 @@ import numpy as np
   
 
 
-
-
-
-
-
-
-
-
-  
